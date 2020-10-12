@@ -5,8 +5,8 @@
  "description": "A simple Farmware example that tells FarmBot to log a new message.",
  "version": "1.0.0",
  "min_os_version_major": 6,
- "url": "https://raw.githubusercontent.com/FarmBot-Labs/hello-farmware/master/manifest_v1.json",
- "zip": "https://github.com/FarmBot-Labs/hello-farmware/archive/master.zip",
+ "url": "https://raw.githubusercontent.com/FarmBot-Labs/hello-farmware/main/manifest_v1.json",
+ "zip": "https://github.com/FarmBot-Labs/hello-farmware/archive/main.zip",
  "executable": "python",
- "args": ["hello-farmware-master/hello.py"]
+ "args": ["hello-farmware-main/hello.py"]
 }
